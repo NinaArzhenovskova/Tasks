@@ -1,7 +1,8 @@
 Реализовать следующую задачу. На ввод подается:
-http://javarush.ru/alpha/index.html?lvl=15&view&name=Amigo
+<br>http://javarush.ru/alpha/index.html?lvl=15&view&name=Amigo</br>
+
 Вывод должен содержать параметры:
-lvl view name
+<br>lvl view name</br>
 
 <ol>
 <li>Считать с консоли URl ссылку.</li>
