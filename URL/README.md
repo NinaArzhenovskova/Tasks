@@ -1,5 +1,5 @@
 Реализовать следующую задачу. На ввод подается:
-<br>http://javarush.ru/alpha/index.html?lvl=15&view&name=Amigo</br>
+<br>http://mysite.ru/alpha/index.html?lvl=15&view&name=Amigo</br>
 
 Вывод должен содержать параметры:
 <br>lvl view name</br>
