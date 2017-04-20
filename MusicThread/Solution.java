@@ -1,7 +1,7 @@
 import java.util.Date;
 
 /* 
-Поговорим о музыке?
+Продолжительность игры на инструменте
 */
 
 public class Solution {
